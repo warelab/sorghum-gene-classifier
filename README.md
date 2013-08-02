@@ -1,7 +1,9 @@
 Sorghum gene model classifier
 =============================
 
-This repository holds the gene models generated for the paper (citation and link).
+This repository holds the gene models and classification data generated for the paper:
 
-The following visualization tool lets you explore the various data used to classify gene models as functional or non-functional.
+Expanding and Vetting <i>Sorghum bicolor</i> Gene Annotations through Transcriptome and Methylome Sequencing
+Andrew Olson, Robert R Klein, Diana V Dugas, Zhenyuan Lu, Michael Regulski, Patricia E Klein, and Doreen Ware*
+Submitted
 
